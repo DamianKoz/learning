@@ -1,0 +1,14 @@
+matplotlib
+pandas
+scikit-learn
+scipy
+statsmodels
+wquantiles
+seaborn
+pygam
+dmba
+pydotplus
+imblearn
+xgboost
+prince
+numpy==1.23.5
