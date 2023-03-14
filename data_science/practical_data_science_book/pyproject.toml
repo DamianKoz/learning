@@ -10,6 +10,7 @@ packages = [{include = "practical_data_science_book"}]
 python = ">=3.10, <3.11"
 pandas = "^1.5.3"
 scipy = "^1.10.1"
+ipykernel = "^6.21.3"
 
 
 [build-system]
